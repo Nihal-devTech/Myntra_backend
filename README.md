@@ -1,3 +1,3 @@
-It is so impportant to Run Myntra_Clone Project 
-write command in terminal
+It is so important to Run this Folder 
+write command in the terminal
 npm start and then switch to Myntra_Clone
